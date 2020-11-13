@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+.done {
+  text-decoration: line-through;
+}
+.form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+li {
+  list-style-type: none;
+  color: #388e3c;
+}
+.heading {
+  color: #ce2189e2;
+}
+
+body{
+  background-color: rgba(158, 206, 148, 0.632);
+  margin-top: 200px;
+}
+
+.font{
+  font-size: xx-large;
+}
